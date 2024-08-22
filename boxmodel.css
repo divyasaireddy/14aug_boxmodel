@@ -1,0 +1,55 @@
+body{
+   background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknE2CKOr6QTuo1Y-xHmpNmBGvaA0hxM3prg&s");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+header{
+    background-color: lightblue;
+    position: fixed;
+    width: 100%;
+    padding-left: 300px;
+    top: 0px;
+}
+
+.a{
+   position: fixed;
+   word-spacing: 15px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 900px;
+}
+.d1{
+    position: fixed;
+    top: 60px;
+    background-color: lightcoral;
+    width: 300px;
+    border: 15px;
+    padding: 30px;
+    margin-right: 10px; 
+}
+
+.d2{
+    position: fixed;
+    top: 60px;
+    background-color: lightsalmon;
+    width: 1100px;
+    border: 15px;
+    padding:30px;
+    margin-left: 370px;
+}
+.c1{
+    background-color:rgb(228, 218, 180);
+    position: fixed;
+    width: 100%;
+    padding-left: 300px;
+    top: 650px;
+}
+
+.a1{
+   position: fixed;
+   word-spacing: 15px;
+   padding-top: 660px;
+   padding-bottom: 10px;
+   padding-left: 900px;
+}
